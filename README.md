@@ -81,3 +81,13 @@ El objetivo de este proyecto es validar empíricamente cómo la distribución de
 ## 📈 Resultados Visuales
 A pesar de que la población origen presenta un sesgo extremo a la derecha, a partir de $n \ge 30$ la distribución de las medias adopta una simetría campaniforme (Normal), demostrando la solidez del TCL en datos del mundo real.
 
+## 🔗 Enlaces de Interés
+
+---
+
+## 🔗 Enlaces de Interés
+
+---
+
+* **Portafolio en Notion:** [Ver caso de estudio documentado](https://massive-partner-85f.notion.site/Caso-de-Estudio-Demostraci-n-Pr-ctica-del-Teorema-Central-del-L-mite-con-Python-3d40b8a57e6080398774c51cb9146bf7?pvs=143)
+* **LinkedIn:** [Ver publicación del proyecto](https://lnkd.in/p/eF7DMaGW)

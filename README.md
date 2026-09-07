@@ -55,6 +55,10 @@ for idx, n in enumerate(sample_sizes, start=1):
     axes[idx].set_ylabel("Densidad")
     axes[idx].legend()
 
+    ![Resultados de la Simulación](clt_simulation_results.jpeg)
+
+
+
 # Ocultar el sexto panel sobrante
 fig.delaxes(axes[5])
 plt.tight_layout()
